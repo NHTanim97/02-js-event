@@ -1,0 +1,26 @@
+.bdy{
+    height: 50px;
+    width: 500px;
+    border: 2px solid gray;
+    margin-top: 50px;
+    margin-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+   }
+   
+   
+   .bdy h2{
+   
+   }
+   
+   .btn{
+    margin-top: 35px;
+    padding: 10px 25px;
+    font-size: medium;
+    background-color: forestgreen;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+   }
